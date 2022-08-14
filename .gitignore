@@ -1,1 +1,21 @@
+#Whitelist
+/*
+!/.minecraft
+/.minecraft/*
+/.minecraft/mods
 
+#main
+
+#repo stuff
+!/.github
+
+#minecrft
+!/.minecraft/fontfiles
+!/.minecraft/oresources
+!/.minecraft/resourcepacks
+!/.minecraft/resources
+!/.minecraft/scripts
+
+#minecraft/configs
+!/.minecraft/config
+/.minecraft/config/*
