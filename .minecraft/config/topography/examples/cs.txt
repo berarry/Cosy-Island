@@ -1,0 +1,2 @@
+setSpawnStructure("cs",103)
+//设置出生点的生成结构.
