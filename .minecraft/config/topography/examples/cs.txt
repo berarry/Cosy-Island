@@ -1,2 +1,2 @@
-setSpawnStructure("cs",103)
-//设置出生点的生成结构.
+setSpawnStructure("cs",97)
+setSingleBiome("minecraft:plains")
